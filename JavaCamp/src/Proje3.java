@@ -2,7 +2,7 @@
 public class Proje3 {
 
 	public static void main(String[] args) {
-		// Mükemmel Sayý Bulma
+		// MÃ¼kemmel Sayi Bulma
 
 		int number = 28;
 
@@ -20,10 +20,10 @@ public class Proje3 {
 		boolean durum = number == total;
 
 		if (durum) {
-			System.out.println("Girilen sayý mükemmel sayýdýr.");
+			System.out.println("Girilen sayi mÃ¼kemmel sayidir.");
 
 		} else {
-			System.out.println("Girilen sayý mükemmel sayý deðildir!!!");
+			System.out.println("Girilen sayi mÃ¼kemmel sayi degildir!!!");
 		}
 
 	}
